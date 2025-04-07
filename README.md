@@ -1,2 +1,2 @@
 # legal-mind
-This project gives the legal insights for police officers and also for the legal professionals 
+user based login and search for the required legal documents
