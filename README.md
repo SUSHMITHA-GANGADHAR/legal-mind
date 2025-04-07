@@ -1,2 +1,2 @@
 # legal-mind
-user based login and search for the required legal documents
+Userfriendly login and searching platform for the required legal documents
